@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "intrinsics",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codepilot/intrinsics.git"
+  },
   "scripts": {
     "test": "node test.js"
   },
